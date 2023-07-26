@@ -1,0 +1,32 @@
+{
+    "calendario": [
+        {
+            "agosto": [
+                {
+                    "semana": "Semana 1",
+                    "resena": "1 Corintios",
+                    "día": "21",
+                    "leccionmaestro": "1 Corintios 1-4",
+                    "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-1-4?lang=spa",
+                    "equivalenteeis": "1 Corintios 1-4",
+                    "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-1-4?lang=spa",
+                    "pfj": ""
+                }
+            ]
+        },
+        {
+            "septiembre": [
+                {
+                    "semana": "Semana 2",
+                    "resena": "1 Corintios 8-13",
+                    "día": "1",
+                    "leccionmaestro": "1 Corintios 13",
+                    "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-13?lang=spa",
+                    "equivalenteeis": "1 Corintios 13",
+                    "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-13?lang=spa",
+                    "pfj": ""
+                }
+            ]
+        }
+    ]
+}
