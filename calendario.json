@@ -1,32 +1,196 @@
 {
     "calendario": [
         {
-            "agosto": [
-                {
-                    "semana": "Semana 1",
-                    "resena": "1 Corintios",
-                    "día": "21",
-                    "leccionmaestro": "1 Corintios 1-4",
-                    "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-1-4?lang=spa",
-                    "equivalenteeis": "1 Corintios 1-4",
-                    "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-1-4?lang=spa",
-                    "pfj": ""
-                }
-            ]
+            "mes": "Agosto",
+            "semana": "Semana 1",
+            "resena": "1 Corintios 1-7",
+            "día": "21",
+            "leccionmaestro": "1 Corintios 1-4",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-1-4?lang=spa",
+            "equivalenteeis": "1 Corintios 1-4",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-1-4?lang=spa",
+            "pfj": "",
+            "videos": ""
         },
         {
-            "septiembre": [
-                {
-                    "semana": "Semana 2",
-                    "resena": "1 Corintios 8-13",
-                    "día": "1",
-                    "leccionmaestro": "1 Corintios 13",
-                    "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-13?lang=spa",
-                    "equivalenteeis": "1 Corintios 13",
-                    "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-13?lang=spa",
-                    "pfj": ""
-                }
-            ]
+            "mes": "Agosto",
+            "semana": "Semana 1",
+            "resena": "1 Corintios 1-7",
+            "día": "22",
+            "leccionmaestro": "1 Corintios 2",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-2?lang=spa",
+            "equivalenteeis": "1 Corintios 2",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-2?lang=spa",
+            "pfj": "https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/05-light?lang=spa",
+            "videos": ""
+        },
+        {
+            "mes": "Agosto",
+            "semana": "Semana 1",
+            "resena": "1 Corintios 1-7",
+            "día": "23",
+            "leccionmaestro": "1 Corintios 6",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-6?lang=spa",
+            "equivalenteeis": "1 Corintios 6",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-6?lang=spa",
+            "pfj": "https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/06-body?lang=spa#p5",
+            "videos": ""
+        },
+        {
+            "mes": "Agosto",
+            "semana": "Semana 1",
+            "resena": "1 Corintios 1-7",
+            "día": "24",
+            "leccionmaestro": "Dominio de la doctrina: 1 Corintios 6:19-20",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/doctrinal-mastery-1-corinthians-6-19-20?lang=spa",
+            "equivalenteeis": "Dominio de la doctrina: 1 Corintios 6:19-20",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/doctrinal-mastery-1-corinthians-6-19-20?lang=spa",
+            "pfj": "https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/06-body?lang=spa#p14",
+            "videos": ""
+        },
+        {
+            "mes": "Agosto",
+            "semana": "Semana 1",
+            "resena": "1 Corintios 1-7",
+            "día": "25",
+            "leccionmaestro": "Clase especial de la Oración",
+            "leccionmaestro_enlace": "https://drive.google.com/file/d/1XfdbJt0flgYWUf5vyK8cXf3q5INCM98S/view",
+            "equivalenteeis": "Clase especial de la Oración",
+            "equivalenteeis_enlace": "https://drive.google.com/file/d/1XfdbJt0flgYWUf5vyK8cXf3q5INCM98S/view",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Agosto",
+            "semana": "Semana 2",
+            "resena": "1 Corintios 8-13",
+            "día": "28",
+            "leccionmaestro": "1 Corintios 10",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-10?lang=spa",
+            "equivalenteeis": "1 Corintios 10",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-10?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Agosto",
+            "semana": "Semana 2",
+            "resena": "1 Corintios 8-13",
+            "día": "29",
+            "leccionmaestro": "1 Corintios 11",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-11?lang=spa",
+            "equivalenteeis": "1 Corintios 11",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-11?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Agosto",
+            "semana": "Semana 2",
+            "resena": "1 Corintios 8-13",
+            "día": "30",
+            "leccionmaestro": "Dominio de la doctrina: 1 Corintios 11:11",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/doctrinal-mastery-1-corinthians-11-11?lang=spa",
+            "equivalenteeis": "Dominio de la doctrina: 1 Corintios 11:11",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/doctrinal-mastery-1-corinthians-11-11?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Agosto",
+            "semana": "Semana 2",
+            "resena": "1 Corintios 8-13",
+            "día": "31",
+            "leccionmaestro": "1 Corintios 12",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-12?lang=spa",
+            "equivalenteeis": "1 Corintios 12",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-12?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Septiembre",
+            "semana": "Semana 2",
+            "resena": "1 Corintios 8-13",
+            "día": "1",
+            "leccionmaestro": "1 Corintios 13",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-13?lang=spa",
+            "equivalenteeis": "1 Corintios 13",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-13?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Septiembre",
+            "semana": "Semana 3",
+            "resena": "1 Corintios 14-16",
+            "día": "4",
+            "leccionmaestro": "1 Corintios 15:13-28",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-15-13-28?lang=spa",
+            "equivalenteeis": "1 Corintios 15:13-28",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-15-13-28?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Septiembre",
+            "semana": "Semana 3",
+            "resena": "1 Corintios 14-16",
+            "día": "5",
+            "leccionmaestro": "Dominio de la doctrina: 1 Corintios 15:20-22",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/doctrinal-mastery-1-corinthians-15-20-22?lang=spa",
+            "equivalenteeis": "Dominio de la doctrina: 1 Corintios 15:20-22",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/doctrinal-mastery-1-corinthians-15-20-22?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Septiembre",
+            "semana": "Semana 3",
+            "resena": "1 Corintios 14-16",
+            "día": "6",
+            "leccionmaestro": "1 Corintios 15:29",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-15-29?lang=spa",
+            "equivalenteeis": "1 Corintios 15:29",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-15-29?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Septiembre",
+            "semana": "Semana 3",
+            "resena": "1 Corintios 14-16",
+            "día": "7",
+            "leccionmaestro": "1 Corintios 15:32-54",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/1-corinthians-15-32-54?lang=spa",
+            "equivalenteeis": "1 Corintios 15:32-54",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/1-corinthians-15-32-54?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Septiembre",
+            "semana": "Semana 3",
+            "resena": "1 Corintios 14-16",
+            "día": "8",
+            "leccionmaestro": "Dominio de la doctrina: 1 Corintios 15:40-42",
+            "leccionmaestro_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/doctrinal-mastery-1-corinthians-15-40-42?lang=spa",
+            "equivalenteeis": "Dominio de la doctrina: 1 Corintios 15:40-42",
+            "equivalenteeis_enlace": "https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/doctrinal-mastery-1-corinthians-15-40-42?lang=spa",
+            "pfj": "",
+            "videos": ""
+        },
+        {
+            "mes": "Septiembre",
+            "semana": "Semana 4",
+            "resena": "2 Corintios 1-7",
+            "día": "11",
+            "leccionmaestro": "2 Corintios 1; 4",
+            "leccionmaestro_enlace": "",
+            "equivalenteeis": "2 Corintios 1; 4",
+            "equivalenteeis_enlace": "",
+            "pfj": "",
+            "videos": ""
         }
     ]
 }
